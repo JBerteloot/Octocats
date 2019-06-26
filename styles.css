@@ -1,6 +1,5 @@
 .octodex {
     display: flex;
-    width: 1000px;
     justify-content: space-evenly;
     flex-wrap: wrap;
 }
@@ -12,7 +11,7 @@ ul{
 .octocat > a > img {
     width: 300px;
     border: 2px solid rgb(226, 225,226);
-    display:block;
+    display: block;
 }
 .authors {
     display: flex;
