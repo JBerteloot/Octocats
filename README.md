@@ -1,4 +1,4 @@
-##Check out the demo of my finalized project at: 
+Check out the demo of my finalized project at: https://jberteloot.github.io/Octocats/
 
 ## You Should Know
 - HTML
